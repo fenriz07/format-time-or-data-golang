@@ -1,4 +1,10 @@
 # format-time-or-data-golang
+
+[Format a time or date [complete guide] · YourBasic Go.pdf](https://github.com/fenriz07/format-time-or-data-golang/files/7340777/Format.a.time.or.date.complete.guide.YourBasic.Go.pdf)
+
+
+https://yourbasic.org/golang/format-parse-string-time-date-example/
+
 GOLANG Format a time or date
 
 Basic example
